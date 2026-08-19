@@ -4,7 +4,7 @@ from dataclasses import dataclass
 
 @dataclass
 class FileInfo:
-    path: Path0
+    path: Path
     size: int
 
 
