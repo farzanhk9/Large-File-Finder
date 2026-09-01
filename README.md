@@ -2,7 +2,7 @@ from pathlib import Path
 from dataclasses import dataclass
 
 
-@dataclass0
+@dataclass
 class FileInfo:
     path: Path
     size: int
