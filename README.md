@@ -1,5 +1,5 @@
 from pathlib import Path
-from dataclasses import dataclass0
+from dataclasses import dataclass
 
 
 @dataclass
